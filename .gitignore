@@ -1,0 +1,12 @@
+# Bytecode class files
+*.class
+
+# Bin directory and packaged archives
+bin/
+*.jar
+
+# OS metadata
+.DS_Store
+
+# Temporary editor files
+tempCodeRunnerFile.java
